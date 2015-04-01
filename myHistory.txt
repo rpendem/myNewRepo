@@ -1,0 +1,39 @@
+    1  ls
+    2  cd myFirst
+    3  ls
+    4  ls
+    5  git clone
+    6  git clone https://github.com/rpendem/myNewRepo
+    7  git init
+    8  git add .
+    9  git remote add origin https://github.com/rpendem/myNewRepo.git
+   10  git push origin master
+   11  git pull origin master
+   12  myhistory
+   13  history
+   14  history>>myHistory
+    1  ls
+    2  cd myFirst
+    3  ls
+    4  ls
+    5  git clone
+    6  git clone https://github.com/rpendem/myNewRepo
+    7  git init
+    8  git add .
+    9  git remote add origin https://github.com/rpendem/myNewRepo.git
+   10  git push origin master
+   11  git pull origin master
+   12  myhistory
+   13  history
+   14  history>>myHistory
+   15  ls
+   16  vim sum.c
+   17  ls
+   18  git pull origin master
+   19  git push origin master
+   20  git push origin master
+   21  git pull origin master
+   22  vim sum.c
+   23  ls
+   24  history
+   25  history>>myHistory
